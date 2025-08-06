@@ -8,3 +8,4 @@ scikit_learn==1.7.1
 seaborn==0.13.2
 streamlit==1.46.1
 xgboost==3.0.3
+fsspec
